@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(16, 3, 90);
+}
+.sarlavha{
+    color: yellow;
+    text-align: center;
+    }
+    .yashil{
+        color: green;
+        text-align: center;
+    }
+    .bot{
+        text-align: center;
+        color: white;
+        font-size: 22px;
+    }
+    .rassm{
+        width: 400px;
+        height: 500px;
+    }
+    .a{
+        border: 2px solid yellow;
+        width: 500;
+        border-collapse: collapse;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .d{
+        height: 0px;
+        width: 1500px;
+        border: 2px solid yellow;
+        text-align: center; 
+        border-collapse: collapse;
+        margin: 0 auto;
+    }
+    .s{
+        text-align: center;
+        color: white;
+    }
+    .ss{
+        text-align: center;
+        
+    }
+    .m{
+        width: 1500px;
+        height: 25px;
+    }
+    .n{
+       background-color: yellow; 
+       border-radius: 20px;
+       text-align: center;
+       margin: 0 auto;
+       width: 350px;
+       height: 30px;
+       display: block;
+       
+    }
